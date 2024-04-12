@@ -1,0 +1,14 @@
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\bin\Debug\net6.0\Exercicios_4.exe
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\bin\Debug\net6.0\Exercicios_4.deps.json
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\bin\Debug\net6.0\Exercicios_4.runtimeconfig.json
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\bin\Debug\net6.0\Exercicios_4.dll
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\bin\Debug\net6.0\Exercicios_4.pdb
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\obj\Debug\net6.0\Exercicios_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\obj\Debug\net6.0\Exercicios_4.AssemblyInfoInputs.cache
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\obj\Debug\net6.0\Exercicios_4.AssemblyInfo.cs
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\obj\Debug\net6.0\Exercicios_4.csproj.CoreCompileInputs.cache
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\obj\Debug\net6.0\Exercicios_4.dll
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\obj\Debug\net6.0\refint\Exercicios_4.dll
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\obj\Debug\net6.0\Exercicios_4.pdb
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\obj\Debug\net6.0\Exercicios_4.genruntimeconfig.cache
+C:\Users\lab1-aluno\Downloads\Aulas_SW_I-main\Exercicios\Exercicios_4\Exercicios_4\obj\Debug\net6.0\ref\Exercicios_4.dll
